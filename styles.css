@@ -50,7 +50,7 @@
 		
 }
 
-@media all and (max-width: 960px){
+@media all and (max-width: 375px){
 	body, .wrapper{
 			background-color: lavender;
 	}
@@ -59,7 +59,7 @@
 	}
 }
 
-@media all and (max-width: 1000px){
+@media all and (max-width: 768px){
 	.peach, .purple, .orange{
 		display: none;
 	}
