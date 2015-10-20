@@ -49,3 +49,37 @@
 		margin-left: 140px;
 		
 }
+
+@media all and (max-width: 960px){
+	body, .wrapper{
+			background-color: lavender;
+	}
+	.orange, .purple, .peach, .brick{
+		display: none;
+	}
+}
+
+@media all and (max-width: 1000px){
+	.peach, .purple, .orange{
+		display: none;
+	}
+	.blue{
+			border: solid 3px #FFE5DD;
+	}
+	.brick{
+		margin-left: 0;
+		width: 100%;
+		height: 200px;
+	}
+	body, .wrapper{
+		background-color: lavender;
+	}
+}
+
+
+
+
+
+
+
+
