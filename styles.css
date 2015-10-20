@@ -1,0 +1,51 @@
+.orange, .blue, .purple, .peach {
+							   	  border-radius: 50%;
+							   	  width: 250px;
+							   	  height: 250px;
+							  	  float: left;
+							   	  margin: 30px;
+
+}
+.wrapper{
+		  width: 100%;
+		  background-color: white;
+		  height: 300px;
+
+}
+
+.orange{
+	     background-color: #FFEDD4;
+	     border: solid 3px #FFE5DD;
+
+}
+
+.blue{
+	   background-color: #CCE4FF;
+	   border: solid 3px #E7E6FF;
+
+}
+
+.purple{
+		 background-color: #E7E6FF;
+		 border: solid 3px #CCE4FF;
+
+}
+
+.peach{
+		background-color: #FFE5DD;
+		border: solid 3px #FFEDD4;
+
+}
+
+.clear{
+		clear: both;
+}
+
+.brick{
+		background-color: salmon;
+		width: 1000px;
+		height: 350px;
+		border-radius: 25px;
+		margin-left: 140px;
+		
+}
